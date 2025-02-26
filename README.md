@@ -1,6 +1,6 @@
-# PowerButtonSleep
+# Power Button Sleep
 
-Monitor power button being pressed and send system to sleep after 5 seconds
+Sleep system after 5 seconds when you press the power button
 
 ## Installation Instructions
 
